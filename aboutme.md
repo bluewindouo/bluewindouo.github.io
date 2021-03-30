@@ -5,4 +5,4 @@ hi so this is my website i just started, i live in austin texas
 ## intrest
 play videogames
 
-<img src="https://user-images.githubusercontent.com/81393346/112654920-e4dfcc80-8e1d-11eb-8ee0-73e86765c051.jpg">
+<img src="https://user-images.githubusercontent.com/81393346/112654920-e4dfcc80-8e1d-11eb-8ee0-73e86765c051.jpg" width="500" height="600">
